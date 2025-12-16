@@ -1,0 +1,128 @@
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\iizuk\OneDrive\workOne\C#まず作る\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor1\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor1 改良版2\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor3\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor2\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor2 AI\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor2 AI final\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\refint\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.exe
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.deps.json
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.runtimeconfig.json
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.dll
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\bin\Debug\net8.0-windows\Quoridor1.pdb
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.Form1.resources
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\Quoridor1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Quoridor AI 2vs4\Quoridor1\obj\Debug\net8.0-windows\ref\Quoridor1.dll
