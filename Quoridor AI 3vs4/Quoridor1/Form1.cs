@@ -33,7 +33,7 @@ namespace Quoridor1
         const int WALL_MAX = 3;  // 壁の最大数
 
         // モンテカルロ法のシミュレーション回数
-        const int MC_SIMULATION_COUNT = 20000;
+        const int MC_SIMULATION_COUNT = 10000;
 
         // 壁情報
         private int[,] kabeyoko = new int[N - 1, N];
@@ -287,6 +287,7 @@ namespace Quoridor1
                     if (!gameFinished) turn = 1 - turn;
                 }
 
+                Console.WriteLine($"勝ち比 : {winCount[0]} : {winCount[1]}");
                 // UIフリーズ防止
                 if (i % 5 == 0) Application.DoEvents();
             }
@@ -764,31 +765,56 @@ namespace Quoridor1
                 _rng = new Random(Guid.NewGuid().GetHashCode());
             }
             public SimState DeepClone() { return new SimState(Ugokeru, Kabeyoko, Kabetate, P0, P1, Walls, Turn); }
+            // SimStateクラス内のメソッド
             public int PlayOut()
             {
                 int moves = 0;
                 while (moves < 100)
                 {
                     if (P0[1] == 0) return 0;
-                    if (P1[1] == N - 1) return 1;
+                    if (P1[1] == 5 - 1) return 1; // N=5
+
                     List<SimAction> actions = GetLegalActions();
                     if (actions.Count == 0) return 1 - Turn;
 
-                    SimAction act = null;
-                    // PlayOut Heuristic: 30% Forward Bias
-                    var mActions = actions.Where(a => a.Type == ActionType.Move).ToList();
-                    if (mActions.Count > 0 && _rng.NextDouble() < 0.4)
+                    SimAction selectedAction = null;
+
+
+                    // 移動アクションだけ抽出
+                    var moveActions = actions.Where(a => a.Type == ActionType.Move).ToList();
+
+                    // 80%の確率で「ゴールに近づく手」を選ぶ (残りはランダム)
+                    if (moveActions.Count > 0 && _rng.NextDouble() < 0.8)
                     {
-                        int gy = (Turn == 0) ? 0 : N - 1;
-                        int cy = (Turn == 0) ? P0[1] : P1[1];
-                        var better = mActions.Where(a => Math.Abs((a.TargetK / N) - gy) < Math.Abs(cy - gy)).ToList();
-                        if (better.Count > 0) act = better[_rng.Next(better.Count)];
+                        int goalY = (Turn == 0) ? 0 : 5 - 1; // N=5
+                        int currentY = (Turn == 0) ? P0[1] : P1[1];
+                        int currentDist = Math.Abs(currentY - goalY);
+
+                        // 今よりゴールに近づく手を探す
+                        var betterMoves = moveActions.Where(a =>
+                        {
+                            int nextY = a.TargetK / 5; // N=5
+                            return Math.Abs(nextY - goalY) < currentDist;
+                        }).ToList();
+
+                        if (betterMoves.Count > 0)
+                        {
+                            // 良い手の中からランダム選択
+                            selectedAction = betterMoves[_rng.Next(betterMoves.Count)];
+                        }
                     }
-                    if (act == null) act = actions[_rng.Next(actions.Count)];
-                    ApplyAction(act);
+
+                    // 上記で決まらなかった、または壁を置く場合などはランダム
+                    if (selectedAction == null)
+                    {
+                        selectedAction = actions[_rng.Next(actions.Count)];
+                    }
+                    // ===============================================
+
+                    ApplyAction(selectedAction);
                     moves++;
                 }
-                return -1;
+                return -1; // Draw
             }
             public void ApplyAction(SimAction a)
             {
